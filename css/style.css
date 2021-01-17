@@ -1,0 +1,32 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+.navbar-brand img {
+  width: 50%;
+}
+.hero h1 {
+  color: rgb(42, 30, 89);
+  font-size: 60px;
+  font-weight: 900;
+}
+.hero img {
+  width: 80%;
+}
+.green-highlighter {
+  color: rgb(118, 194, 126);
+}
+.btn-text {
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+}
+.btn-buy-now {
+  background-color: rgb(42, 30, 89);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.btn-buy-now img {
+  width: 35px;
+  margin: auto 5px;
+}
